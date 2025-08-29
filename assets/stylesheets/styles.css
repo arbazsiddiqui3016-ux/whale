@@ -3364,7 +3364,7 @@ ul {
 }
 
 .contact-section .contact-form .form-group {
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 .contact-section .contact-form form textarea.form-control {
@@ -3722,7 +3722,7 @@ canvas {
 }
 
 .az-cust-contact-section .contact-form form textarea.form-control {
-  height: 120px;
+  height: 80px !important;
 }
 
 .az-header-contact {
