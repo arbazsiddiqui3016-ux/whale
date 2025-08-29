@@ -943,6 +943,15 @@ section {
   position: relative;
 }
 
+.az-cust-menu {
+  border-right: 1px solid #fff;
+  padding-right: 10px;
+}
+
+.az-cust-webs {
+  padding: 10px 15px 10px 0px !important;
+}
+
 .about .content ul i {
   position: absolute;
   font-size: 20px;
@@ -3281,12 +3290,16 @@ ul {
   font-size: 15px;
   width: 100%;
   padding: 10px 20px;
-  height: 52px;
+  height: 44px;
   color: #025bdd;
   border: none;
-  border-radius: 8px;
+  border-radius: 6px;
   transition: all 0.4s;
-  background: var(--theme-color-dark);
+  border: 1px solid #ced4da;
+}
+
+.az-cust-select {
+  height: 44px;
 }
 
 .contact-section .contact-form-3 form input:focus,
